@@ -34,3 +34,5 @@ Para ejecutar los ejercicios necesitas:
 ```bash
 java NombreArchivo.java
 ```
+
+Gracias por colaborar :)
